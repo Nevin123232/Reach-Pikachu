@@ -17,6 +17,7 @@
 
         Frmintro.stoptheme()
 
+        Frmintro.playtheme("mainmenutheme.wav") ' plays menu intro theme
 
         frmlevel1.Close()
         frmlevel2.Close()

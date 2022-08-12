@@ -31,6 +31,9 @@
 
         Frmintro.stoptheme()
 
+        Frmintro.playtheme("mainmenutheme.wav") ' plays menu intro theme
+
+
         frmlevel1.Close()
         frmlevel2.Close()
         frmlevel3.Close()
@@ -55,6 +58,8 @@
 
         Frmintro.stoptheme()
 
+        Frmintro.playtheme("mainmenutheme.wav") ' plays menu intro theme
+
         frmlevel1.Close()
         frmlevel2.Close()
         frmlevel3.Close()
@@ -76,6 +81,8 @@
 
         Frmintro.stoptheme()
 
+
+        Frmintro.playtheme("mainmenutheme.wav") ' plays menu intro theme
 
         frmlevel1.Close()
         frmlevel2.Close()
@@ -103,6 +110,8 @@
         Frmintro.stoptheme()
 
 
+        Frmintro.playtheme("mainmenutheme.wav") ' plays menu intro theme
+
         frmlevel1.Close()
         frmlevel2.Close()
         frmlevel3.Close()
@@ -122,6 +131,8 @@
         MsgBox("You have accidentally found zoroark, You lose")
 
         Frmintro.stoptheme()
+
+        Frmintro.playtheme("mainmenutheme.wav") ' plays menu intro theme
 
         frmlevel1.Close()
         frmlevel2.Close()

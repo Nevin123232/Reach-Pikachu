@@ -43,29 +43,32 @@ Partial Class frmlastlevel6
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button1.Location = New System.Drawing.Point(10, 0)
+        Me.Button1.Location = New System.Drawing.Point(15, 0)
+        Me.Button1.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(129, 127)
+        Me.Button1.Size = New System.Drawing.Size(194, 195)
         Me.Button1.TabIndex = 0
-        Me.Button1.Text = "Nevi&n "
+        Me.Button1.Text = "&You"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button3
         '
         Me.Button3.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button3.Location = New System.Drawing.Point(145, 0)
+        Me.Button3.Location = New System.Drawing.Point(218, 0)
+        Me.Button3.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(136, 127)
+        Me.Button3.Size = New System.Drawing.Size(204, 195)
         Me.Button3.TabIndex = 2
-        Me.Button3.Text = "i&s"
+        Me.Button3.Text = "Are&,"
         Me.Button3.UseVisualStyleBackColor = True
         '
         'Button5
         '
         Me.Button5.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button5.Location = New System.Drawing.Point(350, 314)
+        Me.Button5.Location = New System.Drawing.Point(525, 483)
+        Me.Button5.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button5.Name = "Button5"
-        Me.Button5.Size = New System.Drawing.Size(145, 131)
+        Me.Button5.Size = New System.Drawing.Size(218, 202)
         Me.Button5.TabIndex = 4
         Me.Button5.Text = "&a "
         Me.Button5.UseVisualStyleBackColor = True
@@ -73,9 +76,10 @@ Partial Class frmlastlevel6
         'Button6
         '
         Me.Button6.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button6.Location = New System.Drawing.Point(195, 308)
+        Me.Button6.Location = New System.Drawing.Point(292, 474)
+        Me.Button6.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button6.Name = "Button6"
-        Me.Button6.Size = New System.Drawing.Size(149, 137)
+        Me.Button6.Size = New System.Drawing.Size(224, 211)
         Me.Button6.TabIndex = 5
         Me.Button6.Text = "&Find "
         Me.Button6.UseVisualStyleBackColor = True
@@ -83,9 +87,10 @@ Partial Class frmlastlevel6
         'Button8
         '
         Me.Button8.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button8.Location = New System.Drawing.Point(662, 311)
+        Me.Button8.Location = New System.Drawing.Point(993, 478)
+        Me.Button8.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button8.Name = "Button8"
-        Me.Button8.Size = New System.Drawing.Size(138, 140)
+        Me.Button8.Size = New System.Drawing.Size(207, 215)
         Me.Button8.TabIndex = 7
         Me.Button8.Text = "Individua&l"
         Me.Button8.UseVisualStyleBackColor = True
@@ -93,9 +98,10 @@ Partial Class frmlastlevel6
         'Button9
         '
         Me.Button9.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button9.Location = New System.Drawing.Point(625, 139)
+        Me.Button9.Location = New System.Drawing.Point(938, 214)
+        Me.Button9.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button9.Name = "Button9"
-        Me.Button9.Size = New System.Drawing.Size(163, 156)
+        Me.Button9.Size = New System.Drawing.Size(244, 240)
         Me.Button9.TabIndex = 8
         Me.Button9.Text = "&Will"
         Me.Button9.UseVisualStyleBackColor = True
@@ -103,9 +109,10 @@ Partial Class frmlastlevel6
         'Button10
         '
         Me.Button10.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button10.Location = New System.Drawing.Point(10, 297)
+        Me.Button10.Location = New System.Drawing.Point(15, 457)
+        Me.Button10.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button10.Name = "Button10"
-        Me.Button10.Size = New System.Drawing.Size(167, 154)
+        Me.Button10.Size = New System.Drawing.Size(250, 237)
         Me.Button10.TabIndex = 9
         Me.Button10.Text = "Ne&ver"
         Me.Button10.UseVisualStyleBackColor = True
@@ -113,9 +120,10 @@ Partial Class frmlastlevel6
         'Button11
         '
         Me.Button11.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button11.Location = New System.Drawing.Point(501, 311)
+        Me.Button11.Location = New System.Drawing.Point(752, 478)
+        Me.Button11.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button11.Name = "Button11"
-        Me.Button11.Size = New System.Drawing.Size(141, 137)
+        Me.Button11.Size = New System.Drawing.Size(212, 211)
         Me.Button11.TabIndex = 10
         Me.Button11.Text = "B&etter "
         Me.Button11.UseVisualStyleBackColor = True
@@ -123,19 +131,21 @@ Partial Class frmlastlevel6
         'Button12
         '
         Me.Button12.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button12.Location = New System.Drawing.Point(19, 135)
+        Me.Button12.Location = New System.Drawing.Point(28, 208)
+        Me.Button12.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button12.Name = "Button12"
-        Me.Button12.Size = New System.Drawing.Size(158, 156)
+        Me.Button12.Size = New System.Drawing.Size(237, 240)
         Me.Button12.TabIndex = 11
-        Me.Button12.Text = "Eve&r"
+        Me.Button12.Text = "Eve&r!"
         Me.Button12.UseVisualStyleBackColor = True
         '
         'Button13
         '
         Me.Button13.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button13.Location = New System.Drawing.Point(401, 139)
+        Me.Button13.Location = New System.Drawing.Point(602, 214)
+        Me.Button13.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button13.Name = "Button13"
-        Me.Button13.Size = New System.Drawing.Size(180, 156)
+        Me.Button13.Size = New System.Drawing.Size(270, 240)
         Me.Button13.TabIndex = 12
         Me.Button13.Text = "Yo&u"
         Me.Button13.UseVisualStyleBackColor = True
@@ -143,9 +153,10 @@ Partial Class frmlastlevel6
         'Button14
         '
         Me.Button14.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button14.Location = New System.Drawing.Point(300, 0)
+        Me.Button14.Location = New System.Drawing.Point(450, 0)
+        Me.Button14.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button14.Name = "Button14"
-        Me.Button14.Size = New System.Drawing.Size(133, 127)
+        Me.Button14.Size = New System.Drawing.Size(200, 195)
         Me.Button14.TabIndex = 13
         Me.Button14.Text = "T&he "
         Me.Button14.UseVisualStyleBackColor = True
@@ -153,9 +164,10 @@ Partial Class frmlastlevel6
         'Button15
         '
         Me.Button15.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button15.Location = New System.Drawing.Point(639, 0)
+        Me.Button15.Location = New System.Drawing.Point(958, 0)
+        Me.Button15.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button15.Name = "Button15"
-        Me.Button15.Size = New System.Drawing.Size(161, 127)
+        Me.Button15.Size = New System.Drawing.Size(242, 195)
         Me.Button15.TabIndex = 14
         Me.Button15.Text = "Pers&on"
         Me.Button15.UseVisualStyleBackColor = True
@@ -163,18 +175,20 @@ Partial Class frmlastlevel6
         'Button16
         '
         Me.Button16.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button16.Location = New System.Drawing.Point(461, 0)
+        Me.Button16.Location = New System.Drawing.Point(692, 0)
+        Me.Button16.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button16.Name = "Button16"
-        Me.Button16.Size = New System.Drawing.Size(143, 127)
+        Me.Button16.Size = New System.Drawing.Size(214, 195)
         Me.Button16.TabIndex = 15
         Me.Button16.Text = "Bes&t"
         Me.Button16.UseVisualStyleBackColor = True
         '
         'btnwin
         '
-        Me.btnwin.Location = New System.Drawing.Point(662, 221)
+        Me.btnwin.Location = New System.Drawing.Point(993, 340)
+        Me.btnwin.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.btnwin.Name = "btnwin"
-        Me.btnwin.Size = New System.Drawing.Size(75, 39)
+        Me.btnwin.Size = New System.Drawing.Size(112, 60)
         Me.btnwin.TabIndex = 17
         Me.btnwin.Text = "Pi&kachu"
         Me.btnwin.UseVisualStyleBackColor = True
@@ -182,18 +196,19 @@ Partial Class frmlastlevel6
         'Button2
         '
         Me.Button2.Font = New System.Drawing.Font("Microsoft Sans Serif", 20.0!)
-        Me.Button2.Location = New System.Drawing.Point(195, 139)
+        Me.Button2.Location = New System.Drawing.Point(292, 214)
+        Me.Button2.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(180, 156)
+        Me.Button2.Size = New System.Drawing.Size(270, 240)
         Me.Button2.TabIndex = 18
         Me.Button2.Text = "A&nd "
         Me.Button2.UseVisualStyleBackColor = True
         '
         'frmlastlevel6
         '
-        Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
+        Me.AutoScaleDimensions = New System.Drawing.SizeF(9.0!, 20.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(800, 450)
+        Me.ClientSize = New System.Drawing.Size(1200, 692)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button16)
         Me.Controls.Add(Me.Button15)
@@ -209,6 +224,7 @@ Partial Class frmlastlevel6
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.btnwin)
+        Me.Margin = New System.Windows.Forms.Padding(4, 5, 4, 5)
         Me.Name = "frmlastlevel6"
         Me.Text = "Welcome to the final challenge, Level 7"
         Me.ResumeLayout(False)

@@ -82,9 +82,12 @@
 
         Frmintro.stoptheme() 'stops currently played audio
 
+        Frmintro.playtheme("mainmenutheme.wav") ' plays menu intro theme
+
         frmlevel1.Close()
 
         frmlevel2.Close()
+
 
         Me.Close()
     End Sub
@@ -117,6 +120,8 @@
 
         Frmintro.stoptheme() ' stops audio
 
+        Frmintro.playtheme("mainmenutheme.wav") ' plays menu intro theme
+
         Me.Close()
 
     End Sub
@@ -132,6 +137,8 @@
         MsgBox("Zoroa has fooled you, you lose")
 
         Frmintro.stoptheme() ' stops played audio
+
+        Frmintro.playtheme("mainmenutheme.wav") ' plays menu intro theme
 
         frmlevel1.Close()
         frmlevel2.Close()

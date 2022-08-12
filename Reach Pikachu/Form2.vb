@@ -62,6 +62,8 @@
 
         Frmintro.stoptheme() ' temporarily stops audio
 
+        Frmintro.playtheme("mainmenutheme.wav") ' plays menu intro theme
+
         Me.Close()
 
     End Sub
